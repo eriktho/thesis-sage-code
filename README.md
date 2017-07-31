@@ -1,2 +1,2 @@
 # thesis-sage-code
-Sage code for a master thesis
+This project contains Sage code for a master thesis.
